@@ -6,9 +6,7 @@ The project also includes a web interface built with Streamlit that allows users
 
 🚀 Live Demo
 
-🔗 Try the app here:
-https://movie-recommender-system-vivek.streamlit.app/
-
+🔗 Try the app here: https://movie-recommender-system-vbhai.onrender.com/
 📌 Features
 🎥 Recommend movies similar to a selected movie
 📊 Content-based recommendation using cosine similarity
